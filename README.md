@@ -1,0 +1,1 @@
+This repository includes my submission for the Node.js Intern assignment. It covers API development using Node.js and Express, along with well-structured API documentation, showcasing my ability to understand requirements, implement backend logic, and document functionality clearly.
